@@ -28,6 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">A Day at a Time</dc:title>
 		<meta property="file-as" refines="#title">Day at a Time, A</meta>
+		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="subtitle">And Other Talks on Life and Religion</dc:title>
 		<meta property="file-as" refines="#subtitle">Other Talks on Life and Religion, And</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>

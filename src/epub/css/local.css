@@ -2,7 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Poetry */
-
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;

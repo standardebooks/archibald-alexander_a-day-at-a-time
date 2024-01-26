@@ -132,3 +132,11 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+/* Headers not in ToC */
+header{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+/* End headers not in ToC */

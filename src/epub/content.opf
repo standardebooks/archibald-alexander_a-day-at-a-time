@@ -38,7 +38,7 @@
 		<dc:subject id="subject-1">Sermons, English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85120276</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
@@ -53,9 +53,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/archibald-alexander_a-day-at-a-time</meta>
 		<dc:creator id="author">Archibald Alexander</dc:creator>
 		<meta property="file-as" refines="#author">Alexander, Archibald</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Archibald_Alexander</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Samuel Colman</dc:contributor>
@@ -67,9 +65,9 @@
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1"><abbr epub:type="z3998:given-name">C. B.</abbr> Bowman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bowman, <abbr epub:type="z3998:given-name">C. B.</abbr></meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/cbbowman</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>

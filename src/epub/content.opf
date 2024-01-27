@@ -65,8 +65,8 @@
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1"><abbr epub:type="z3998:given-name">C. B.</abbr> Bowman</dc:contributor>
-		<meta property="file-as" refines="#producer-1">Bowman, <abbr epub:type="z3998:given-name">C. B.</abbr></meta>
+		<dc:contributor id="producer-1">C. B. Bowman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bowman, C. B.</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://github.com/cbbowman</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>

@@ -3,6 +3,7 @@
 
 /* Poetry */
 [epub|type~="z3998:poem"] p,
+[epub|type~="z3998:hymn"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
@@ -14,6 +15,7 @@
 }
 
 [epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:hymn"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -21,6 +23,7 @@
 }
 
 [epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:hymn"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }

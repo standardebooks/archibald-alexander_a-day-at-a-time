@@ -140,3 +140,14 @@ header{
 	text-align: center;
 }
 /* End headers not in ToC */
+
+/* Dedication customization */
+section[epub|type~="dedication"] > p{
+	font-variant: small-caps;
+}
+
+section[epub|type~="dedication"] b{
+	font-size: 1.5em;
+	font-variant: small-caps;
+}
+/* End dedication customization */

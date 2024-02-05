@@ -39,17 +39,16 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85120276</meta>
 		<meta property="se:subject">Spirituality</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A 1916 Christian devotional reflecting on faith and morality during World War I.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+						&lt;p&gt;&lt;i&gt;A Day at a Time&lt;/i&gt;, authored by &lt;a href="https://standardebooks.org/ebooks/archibald-alexander"&gt;&lt;abbr&gt;Rev.&lt;/abbr&gt; Archibald Alexander&lt;/a&gt; in 1916, unfolds as a Christian devotional work set against the historical backdrop of World War I. This collection of daily meditations, crafted by a pastor, delves into themes of faith, morality, and spiritual introspection. Notably dedicated to the Admiral of the Grand Fleet of Great Britain, the book reflects the wartime context of its creation.&lt;/p&gt;
+						&lt;p&gt;With its focus on timeless spiritual insights and the challenges of World War I, the book addresses the moral complexities individuals faced during this period. &lt;i&gt;A Day at a Time&lt;/i&gt; stands as a historical document, providing readers with a glimpse into the moral and spiritual atmosphere of the World War I era, offering solace and reflection amid turbulent times.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/39309</dc:source>
 		<dc:source>https://archive.org/details/adayatatime00alexuoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/archibald-alexander_a-day-at-a-time</meta>
 		<dc:creator id="author">Archibald Alexander</dc:creator>
 		<meta property="file-as" refines="#author">Alexander, Archibald</meta>
@@ -61,10 +60,6 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Samuel_Colman_(British_painter)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88659739</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">C. B. Bowman</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Bowman, C. B.</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://github.com/cbbowman</meta>

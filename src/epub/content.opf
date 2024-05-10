@@ -47,8 +47,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/39309</dc:source>
 		<dc:source>https://archive.org/details/adayatatime00alexuoft</dc:source>
-		<meta property="se:word-count">39443</meta>
-		<meta property="se:reading-ease.flesch">76.15</meta>
+		<meta property="se:word-count">39420</meta>
+		<meta property="se:reading-ease.flesch">76.45</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/archibald-alexander_a-day-at-a-time</meta>
 		<dc:creator id="author">Archibald Alexander</dc:creator>
 		<meta property="file-as" refines="#author">Alexander, Archibald</meta>

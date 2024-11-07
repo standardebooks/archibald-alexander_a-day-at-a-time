@@ -150,7 +150,7 @@ section[epub|type~="dedication"] > p{
 }
 
 section[epub|type~="dedication"] b{
-	font-size: 1.5em;
+	font-size: larger;
 	font-variant: small-caps;
 }
 /* End dedication customization */

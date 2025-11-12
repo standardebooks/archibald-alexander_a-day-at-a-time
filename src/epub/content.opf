@@ -54,8 +54,8 @@
 		<dc:creator id="author">Archibald Alexander</dc:creator>
 		<meta property="file-as" refines="#author">Alexander, Archibald</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Archibald_Alexander</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Samuel Colman</dc:contributor>
 		<meta property="file-as" refines="#artist">Colman, Samuel</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Samuel_Colman_(British_painter)</meta>

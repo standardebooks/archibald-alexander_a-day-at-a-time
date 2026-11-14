@@ -56,7 +56,6 @@
 		<link href="https://github.com/standardebooks/archibald-alexander_a-day-at-a-time" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Archibald Alexander</dc:creator>
 		<meta property="file-as" refines="#author">Alexander, Archibald</meta>
-		<link href="https://en.wikipedia.org/wiki/Archibald_Alexander" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
